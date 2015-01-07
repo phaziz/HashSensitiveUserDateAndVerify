@@ -1,5 +1,7 @@
 # HashSensitiveUserDateAndVerify
 
+Demo: <a href="http://demo.phaziz.com/HashSensitiveUserDateAndVerify/" target="_blank">http://demo.phaziz.com/HashSensitiveUserDateAndVerify/</a>
+
 	class EncodeAndVerify
 	{
 		public function encode($PASSWORD,$SALT,$COST = 6)
